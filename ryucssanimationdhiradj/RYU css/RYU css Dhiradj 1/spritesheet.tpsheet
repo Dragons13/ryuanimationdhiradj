@@ -1,0 +1,108 @@
+{
+	"textures": [
+		{
+			"image": "spritesheet.png",
+			"size": {
+				"w": 523,
+				"h": 106
+			},
+			"sprites": [
+				{
+					"filename": "ryu/5.png",
+					"region": {
+						"x": 1,
+						"y": 1,
+						"w": 90,
+						"h": 104
+					},
+					"margin": {
+						"x": 30,
+						"y": 15,
+						"w": 51,
+						"h": 37
+					}
+				},
+				{
+					"filename": "ryu/3.png",
+					"region": {
+						"x": 93,
+						"y": 1,
+						"w": 97,
+						"h": 103
+					},
+					"margin": {
+						"x": 26,
+						"y": 16,
+						"w": 44,
+						"h": 38
+					}
+				},
+				{
+					"filename": "ryu/6.png",
+					"region": {
+						"x": 192,
+						"y": 1,
+						"w": 93,
+						"h": 101
+					},
+					"margin": {
+						"x": 32,
+						"y": 15,
+						"w": 48,
+						"h": 40
+					}
+				},
+				{
+					"filename": "ryu/4.png",
+					"region": {
+						"x": 287,
+						"y": 1,
+						"w": 66,
+						"h": 101
+					},
+					"margin": {
+						"x": 43,
+						"y": 18,
+						"w": 75,
+						"h": 40
+					}
+				},
+				{
+					"filename": "ryu/2.png",
+					"region": {
+						"x": 355,
+						"y": 1,
+						"w": 95,
+						"h": 100
+					},
+					"margin": {
+						"x": 29,
+						"y": 16,
+						"w": 46,
+						"h": 41
+					}
+				},
+				{
+					"filename": "ryu/1.png",
+					"region": {
+						"x": 452,
+						"y": 1,
+						"w": 70,
+						"h": 97
+					},
+					"margin": {
+						"x": 38,
+						"y": 19,
+						"w": 71,
+						"h": 44
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a56f92ec4d6c5566d889151040fd8b0b:f552fd9ba53fde1f5e55ccf7c05212f3:1b6ff94623e0282c57e59f9e13c5e64b$"
+	}
+}
