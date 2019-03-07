@@ -1,2 +1,0 @@
-# ryucssanimationdhiradj
-ryu animation
